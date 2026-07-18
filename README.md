@@ -24,14 +24,14 @@ Requisitos Previos:
 
 ## Pasos para Ejecución:
 1. Clonar el repositorio: git clone https://github.com/JuanPablo88/iapdm-oto-2026-JuanDuarte.git
-   abrir el proyecto:
-   Inicia Android Studio, selecciona Open y busca la carpeta raíz del proyecto clonado.
+   - Abrir el proyecto
+   - Inicia Android Studio, selecciona Open y busca la carpeta raíz del proyecto clonado.
 
-2. Sincronizar Gradle:
-Espera a que termine el proceso de Gradle Sync.
+4. Sincronizar Gradle:
+- Espera a que termine el proceso de Gradle Sync.
 
-3. Ejecutar:
-Selecciona tu dispositivo/emulador en la barra superior de Android Studio y presiona el botón verde de Run (Shift + F10).
+5. Ejecutar:
+- Selecciona tu dispositivo/emulador en la barra superior de Android Studio y presiona el botón verde de Run (Shift + F10).
 
 
 

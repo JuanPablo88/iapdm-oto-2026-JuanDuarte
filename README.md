@@ -4,7 +4,7 @@
 
 El proyecto está estructurado siguiendo las convenciones de desarrollo en Android con Kotlin:
 
-
+```text
 app/src/main/java/com/example/registroempleados/
 │
 ├── Empleado.kt              # Modelo de datos de la entidad Empleado.
@@ -14,7 +14,7 @@ app/src/main/java/com/example/registroempleados/
 │
 └── MainActivity.kt          # Actividad principal. Contiene la interfaz de usuario de 
                              Jetpack Compose y los logs del ciclo de vida.
-
+```
 
 ## Cómo Ejecutar la Aplicación
 Requisitos Previos:
